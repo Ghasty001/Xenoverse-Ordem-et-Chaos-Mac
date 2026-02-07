@@ -1,2 +1,4 @@
 # Xenoverse Orderm et Chaos Mac
-This repository holds the latest mac releases for the revamp project of Pokemon Xenoverse: Per Aspera ad Astra. See releases for the download
+This repository holds the latest mac releases for the revamp project of Pokemon Xenoverse: Per Aspera ad Astra. See releases for the download.
+
+REMEMBER TO MOVE IT IN THE APPLICATIONS FOLDER.
